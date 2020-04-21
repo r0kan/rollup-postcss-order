@@ -1,0 +1,8 @@
+.modules-form {
+    display: block;
+    background-color: #000;
+}
+.components-text {
+    display: flex;
+    justify-content: center;
+}

@@ -1,0 +1,15 @@
+{
+  "name": "rollup-postcss-order",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "rollup -c rollup.config.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "rollup": "^2.6.1",
+    "rollup-plugin-postcss": "^2.8.2"
+  }
+}
