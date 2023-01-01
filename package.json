@@ -10,6 +10,6 @@
   "license": "ISC",
   "dependencies": {
     "rollup": "^2.6.1",
-    "rollup-plugin-postcss": "^2.8.2"
+    "rollup-plugin-postcss": "^4.0.2"
   }
 }
